@@ -1,4 +1,4 @@
-Count inversions
+#Count inversions
 
 ###Why to study it?
 
@@ -23,6 +23,7 @@ Where we can calculate the following running times:
 |D&C| **4.8741764*10^-3 x N^1.0159415**|
 
 And demonstrate that: 
+
 | Array size | D&C  (secs) | Quadratic (hours) |
 |:-------------:|:-------------:|:-----:|
 | 1024K | 6.223 | 15 |

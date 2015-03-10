@@ -5,8 +5,6 @@
 This algorithm is used during the implementation of a typical recommendation engine based on collaborative filtering. 
 The purpose of this experiment is to demonstrate how applying a divide a conquer strategy to the inversions counting we can achieve huge improvements in their performance.
 
-#### Results
-
 #### Benchmark
 
 | Array size | D&C (ms) | Brute force (ms) |
